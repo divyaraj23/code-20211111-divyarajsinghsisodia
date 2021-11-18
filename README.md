@@ -16,6 +16,6 @@ We can apply chunking which pandas inherently support, in case we have a line-de
 - pytest test cases cover most of the scenarios ans more test cases can be added as required.
 
 ### CI/CD pipeline: 
-The Github actions (python-package.yml) file lists jobs that checkout, lint, test and deploy the project as a tarball on the Python Package Index (PyPi) (PyPi Link : https://test.pypi.org/project/bmicalculator/1.0.0/).
+The Github actions (python-package.yml) file lists jobs that checkout, lint, test and deploy the project as a tarball on the Python Package Index (PyPi) (PyPi Link : https://test.pypi.org/project/bmicalculator/1.0.1/).
 
 (c) Divyaraj Singh Sisodia
